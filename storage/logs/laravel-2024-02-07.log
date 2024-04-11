@@ -1,0 +1,8 @@
+[2024-02-07 22:48:03] local.ERROR: Cannot redeclare set_active() (previously declared in C:\Users\zakar\OneDrive\Desktop\MSuccess_V1.0\routes\web.php:30) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare set_active() (previously declared in C:\\Users\\zakar\\OneDrive\\Desktop\\MSuccess_V1.0\\routes\\web.php:30) at C:\\Users\\zakar\\OneDrive\\Desktop\\MSuccess_V1.0\\routes\\web.php:35)
+[stacktrace]
+#0 {main}
+"} 
+[2024-02-07 22:48:04] local.ERROR: Cannot redeclare set_active() (previously declared in C:\Users\zakar\OneDrive\Desktop\MSuccess_V1.0\routes\web.php:30) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare set_active() (previously declared in C:\\Users\\zakar\\OneDrive\\Desktop\\MSuccess_V1.0\\routes\\web.php:30) at C:\\Users\\zakar\\OneDrive\\Desktop\\MSuccess_V1.0\\routes\\web.php:35)
+[stacktrace]
+#0 {main}
+"} 
